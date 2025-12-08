@@ -224,8 +224,6 @@ This package is designed for:
 * AI alignment and safety studies
 * identity stability experiments
 
-It contains **only the clean, working, engineering-ready tools**.
-Theoretical and speculative MBT content belongs in separate repositories.
 
 ---
 
