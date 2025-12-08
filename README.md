@@ -229,17 +229,3 @@ Theoretical and speculative MBT content belongs in separate repositories.
 
 ---
 
-## **📄 License**
-
-MIT License — free for academic, research, and commercial use.
-
----
-
-If you want, I can also generate:
-
-* a **PyPI-ready README**
-* a **professional project logo**
-* a **citation / BibTeX entry**
-* a **short version** for GitHub’s description box
-
-Just tell me and I’ll output it.
