@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="cbf00d88-9ac0-418c-9dfd-32efb1edff53" src="https://github.com/user-attachments/assets/4d4a1d0f-7fc7-4f4d-b378-ae328adb13ce" />
 
 ---
 
@@ -9,6 +10,9 @@ This package extracts the practical, engineering-ready components from the broad
 ---
 
 ## **🌐 Features at a Glance**
+
+<img width="1672" height="941" alt="b6d64e1e-ea43-4c57-bf5b-af32a03e7da8" src="https://github.com/user-attachments/assets/e3b93747-c643-40c6-818c-2c58068fe378" />
+
 
 * **Symbolic contradiction detection engine**
   – detects negations, property mismatches, definitional violations, universals, temporal conflicts.
@@ -112,6 +116,9 @@ mbt_ai_tools/
 
 ### **1. Contradiction Detection**
 
+<img width="1672" height="941" alt="cd696090-5357-4240-8109-1ac711132506" src="https://github.com/user-attachments/assets/effba5fb-4c9e-42e5-8090-9d81d12fe827" />
+
+
 A compact symbolic engine that identifies:
 
 * direct negation
@@ -125,6 +132,9 @@ Useful for reasoning benchmarks, AI safety experiments, and logic pipelines.
 ---
 
 ### **2. Recursive AGI Loop**
+
+<img width="1672" height="941" alt="700f7c0f-a125-40c6-8165-03a550595855" src="https://github.com/user-attachments/assets/68683c51-bbc9-4177-9529-498f51ee4dbd" />
+
 
 Implements a structured cycle:
 
